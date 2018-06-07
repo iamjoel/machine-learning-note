@@ -26,5 +26,9 @@
 * [yongyan 文章](http://yongyuan.name/blog/categories.html#Deep Learning)
 * [Alice(极客X养成计划)](http://www.jianshu.com/p/28f02bb59fe5)
 
+## 比赛
+* [Kaggle](https://www.kaggle.com/competitions)
+* [天池大数据竞赛](https://tianchi.aliyun.com/competition/gameList.htm#tab%3DActive%26pageIndex%3D1) 阿里出品。新手可以试试 [天池新人实战赛之[离线赛]](https://tianchi.aliyun.com/getStart/information.htm?spm=5176.11165320.5678.2.7a7941a8l4mEf2&raceId=231522)
+
 ## 库
 * [ml](https://github.com/mljs/ml) Machine learning tools in JavaScript
