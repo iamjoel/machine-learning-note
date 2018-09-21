@@ -2,17 +2,33 @@
 ## 什么是机器学习
 
 ## 机器学习方法的分类
-机器学习的方法包括: 监督学习 supervised learning（有数据和标签）; 非监督学习 unsupervised learning（有数据无标签）; 半监督学习 semi-supervised learning; 强化学习 reinforcement learning（在经验中总结提升）; 遗传算法 genetic algorithm.
+机器学习的方法包括: 
+* 监督学习 supervised learning（有数据和标签）。常见的场景是用来处理分类问题。
+* 非监督学习 unsupervised learning（有数据无标签）。 会将相似的数据进行聚类。
+* 半监督学习 semi-supervised learning
+* 强化学习 reinforcement learning（在经验中总结提升）
+* 遗传算法 genetic algorithm.
+
+上面的标签是 分类或预测值 的意思。
 
 
-* 机器学习的类别
-* [相关的数学知识](math.md)
+[相关的数学知识](math.md)
+
+## 算法
+* 监督算法
+  * [k-邻近算法(kNN)](algorithm/kNN)。 [kNN的实现](https://github.com/mljs/knn)
+
+## 库
+* 科学操作库(矩阵操作)
+  * [NumPy](http://www.numpy.org/) Python
+  * [numjs](https://github.com/nicolaspanel/numjs) Javascript
 
 ## 资源
 * [深度强化学习导引](https://zhuanlan.zhihu.com/p/21498750)
 * [有趣的机器学习](https://morvanzhou.github.io/tutorials/machine-learning/ML-intro/) 莫烦出品。[所有莫烦出品的教程](https://github.com/MorvanZhou/tutorials)。
 * [吴恩达 神经网络和深度学习 系列](http://study.163.com/my#/smarts)
 * [神经网络与深度学习](http://wiki.jikexueyuan.com/project/neural-networks-and-deep-learning-zh-cn/)
+* [100天掌握机器学习](https://github.com/Avik-Jain/100-Days-Of-ML-Code) 出到53天。
 * 深度机器学习框架
   * [TensorFlow 官方文档中文版](http://wiki.jikexueyuan.com/project/tensorflow-zh/) Google 出品。 https://tensorflow.google.cn/
   * [PaddlePaddle](http://www.paddlepaddle.org/index.cn.html) 百度出品
