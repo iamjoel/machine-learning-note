@@ -34,19 +34,22 @@
 
 ## 库
 * 科学操作库(矩阵操作)
-  * [NumPy](http://www.numpy.org/) Python
+  * [NumPy](libs/numpy) Python。 
+  * [pandas](http://www.numpy.org/) Python。
   * [numjs](https://github.com/nicolaspanel/numjs) Javascript
 * [ml](https://github.com/mljs/ml) Machine learning tools in JavaScript
+* Matplotlib Python。 数据可视化工具
 
 ## 资源
 * [深度强化学习导引](https://zhuanlan.zhihu.com/p/21498750)
 * [有趣的机器学习](https://morvanzhou.github.io/tutorials/machine-learning/ML-intro/) 莫烦出品。[所有莫烦出品的教程](https://github.com/MorvanZhou/tutorials)。
 * 《机器学习实战》书。 介绍了很多机器学习算法。
-* [吴恩达 神经网络和深度学习 系列](http://study.163.com/my#/smarts)
 * [神经网络与深度学习](http://wiki.jikexueyuan.com/project/neural-networks-and-deep-learning-zh-cn/)
 * [100天掌握机器学习](https://github.com/Avik-Jain/100-Days-Of-ML-Code) 出到53天。
-* 深度机器学习框架
-  * [TensorFlow 官方文档中文版](http://wiki.jikexueyuan.com/project/tensorflow-zh/) Google 出品。 https://tensorflow.google.cn/
+* 深度机器学习
+  * [吴恩达 神经网络和深度学习 系列](http://study.163.com/my#/smarts)
+  * TensorFlow
+    * [TensorFlow 官方文档中文版](http://wiki.jikexueyuan.com/project/tensorflow-zh/) Google 出品。 https://tensorflow.google.cn/
   * [PaddlePaddle](http://www.paddlepaddle.org/index.cn.html) 百度出品
 * [机器学习教程](http://www.shareditor.com/bloglistbytag/?tagname=%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E6%95%99%E7%A8%8B) SharEDITor
 * [自己动手做聊天机器人](http://www.shareditor.com/bloglistbytag/?tagname=%E8%87%AA%E5%B7%B1%E5%8A%A8%E6%89%8B%E5%81%9A%E8%81%8A%E5%A4%A9%E6%9C%BA%E5%99%A8%E4%BA%BA) SharEDITor
