@@ -12,12 +12,13 @@
 上面的标签是 分类或预测值 的意思。
 
 
-[相关的数学知识](math.md)
+[相关的数学知识](math.md)： 概率论，矩阵操作等。
 
 ## 算法
 * 监督算法
-  * [k-邻近算法(kNN)](algorithm/kNN)。 [kNN的实现](https://github.com/mljs/knn)
-  * [决策树](algorithm/decision-tree)。 [决策数算法 cart的实现](https://github.com/mljs/decision-tree-cart)
+  * [k-邻近算法(kNN)](algorithm/kNN)。 [实现](https://github.com/mljs/knn)
+  * [决策树](algorithm/decision-tree)。 [决策数算法 cart的实现](https://github.com/mljs/decision-tree-cart)。
+  * [朴素贝叶斯(naive bayes)](algorithm/naive-bayes): 基于概率论的分类法。 [实现](https://github.com/mljs/naive-bayes)
 
 ## 库
 * 科学操作库(矩阵操作)
