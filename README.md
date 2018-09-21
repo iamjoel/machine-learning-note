@@ -17,7 +17,7 @@
 ## 算法
 * 监督算法
   * [k-邻近算法(kNN)](algorithm/kNN)。 [kNN的实现](https://github.com/mljs/knn)
-  * [决策树](decision-tree)。 [决策数算法 cart的实现](https://github.com/mljs/decision-tree-cart)
+  * [决策树](algorithm/decision-tree)。 [决策数算法 cart的实现](https://github.com/mljs/decision-tree-cart)
 
 ## 库
 * 科学操作库(矩阵操作)
