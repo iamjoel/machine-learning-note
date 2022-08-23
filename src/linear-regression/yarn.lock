@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@snyk/protect@^1.990.0":
+  version "1.990.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.990.0.tgz#cf79f8fde4e166667135bcfc05c977b61fdbda7e"
+  integrity sha512-YmuBFhNpgX5kmSz/WE/lyX4j5jXqEKMydKco0+DxDhCpw8me8p6JBpWl9Y+LhzVECD9NnAqTKc5mp42Px4TJjw==
+
 csvtojson@^1.1.7:
   version "1.1.7"
   resolved "https://registry.yarnpkg.com/csvtojson/-/csvtojson-1.1.7.tgz#17ded07aec0d8c01f2d6f6871cfa36ab88b149b1"

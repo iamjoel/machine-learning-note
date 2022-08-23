@@ -1,6 +1,12 @@
 {
   "dependencies": {
     "csvtojson": "^1.1.7",
-    "ml-regression": "^4.4.2"
-  }
+    "ml-regression": "^4.4.2",
+    "@snyk/protect": "latest"
+  },
+  "scripts": {
+    "prepare": "yarn run snyk-protect",
+    "snyk-protect": "snyk-protect"
+  },
+  "snyk": true
 }
